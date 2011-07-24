@@ -1,0 +1,12 @@
+Package: exgraphs
+Version: 0.0-001
+Date: 2011-7-19
+Title: Exploratory and Scientific Graphs
+Author:  Masanao Yajima <yajima@ucla.edu>
+Maintainer: Masanao Yajima <yajima@ucla.edu>
+Depends: R (>= 2.9.0), methods, RColorBrewer
+Suggests: foreign
+Imports: RColorBrewer
+Description: Graphs for exploration and publication
+URL: 
+License: GPL (>= 2)
